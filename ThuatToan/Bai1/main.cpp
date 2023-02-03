@@ -1,3 +1,4 @@
+#include <bits/stdc++.h>
 #include <iostream>
 
 using namespace std;
@@ -24,13 +25,16 @@ Vector Caculated(Vector A, Vector B)
 
 int main()
 {
+    ifstream input("D:/Test_Dmobin/cocos_test/ThuatToan/Bai1/in.txt");
+    fstream output;
+    output.open("D:/Test_Dmobin/cocos_test/ThuatToan/Bai1/out.txt");
     Vector A,B,C;
     A.x=5; A.y=10;
     B.x=-5; B.y=5;
     C.x=-3; C.y=13;
     Vector X,Y,Z;
     float a,b,c,d,e,f;
-    cin>>a>>b>>c>>d>>e>>f;
+    input>>a>>b>>c>>d>>e>>f;
     X.x=a; X.y=b;
     Y.x=c; Y.y=d;
     Z.x=e; Z.y=f;
@@ -38,8 +42,8 @@ int main()
     change(X,A);
     change(Y,B);
     change(Z,C);
-    cout<<Caculated(X,Y).x<<" "<<Caculated(X,Y).y<<"\n";
-    cout<<Caculated(X,Z).x<<" "<<Caculated(X,Z).y<<"\n";
-    cout<<Caculated(Y,Z).x<<" "<<Caculated(Y,Z).y<<"\n";
+    output<<Caculated(X,Y).x<<" "<<Caculated(X,Y).y<<"\n";
+    output<<Caculated(X,Z).x<<" "<<Caculated(X,Z).y<<"\n";
+    output<<Caculated(Y,Z).x<<" "<<Caculated(Y,Z).y<<"\n";
 
 }
