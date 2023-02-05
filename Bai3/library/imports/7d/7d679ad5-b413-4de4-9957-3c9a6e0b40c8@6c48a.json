@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Gun_06_B",
+    "texture": "7d679ad5-b413-4de4-9957-3c9a6e0b40c8",
+    "atlas": "",
+    "rect": [
+      70,
+      0,
+      116,
+      193
+    ],
+    "offset": [
+      0,
+      31.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

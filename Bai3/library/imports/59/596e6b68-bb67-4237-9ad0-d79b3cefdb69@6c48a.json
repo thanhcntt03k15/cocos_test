@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Light_Shell",
+    "texture": "596e6b68-bb67-4237-9ad0-d79b3cefdb69",
+    "atlas": "",
+    "rect": [
+      59,
+      52,
+      10,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

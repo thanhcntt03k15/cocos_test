@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Hull_05",
+    "texture": "0703f7d5-5161-4f6a-89da-7fd2524d21b2",
+    "atlas": "",
+    "rect": [
+      48,
+      0,
+      160,
+      256
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

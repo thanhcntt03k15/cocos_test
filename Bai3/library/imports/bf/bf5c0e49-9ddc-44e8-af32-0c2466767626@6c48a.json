@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Laser",
+    "texture": "bf5c0e49-9ddc-44e8-af32-0c2466767626",
+    "atlas": "",
+    "rect": [
+      58,
+      26,
+      12,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

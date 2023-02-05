@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sniper_Shell",
+    "texture": "3902a83e-2f40-40ad-b9cc-f987c6ed70e5",
+    "atlas": "",
+    "rect": [
+      58,
+      39,
+      11,
+      50
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

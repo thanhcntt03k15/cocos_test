@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "beda6208-d5e5-45a0-909d-857e51d2f612",
+  "importer": "image",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "Sprite_Fire_Shots_Flame_007": {
+      "ver": "1.0.6",
+      "uuid": "beda6208-d5e5-45a0-909d-857e51d2f612@6c48a",
+      "importer": "texture",
+      "rawTextureUuid": "beda6208-d5e5-45a0-909d-857e51d2f612",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": -0.5,
+      "trimX": 101,
+      "trimY": 7,
+      "width": 51,
+      "height": 243,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

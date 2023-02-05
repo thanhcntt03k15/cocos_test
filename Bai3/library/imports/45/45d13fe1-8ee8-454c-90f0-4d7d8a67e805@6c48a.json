@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Shotgun_Shells",
+    "texture": "45d13fe1-8ee8-454c-90f0-4d7d8a67e805",
+    "atlas": "",
+    "rect": [
+      37,
+      48,
+      54,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

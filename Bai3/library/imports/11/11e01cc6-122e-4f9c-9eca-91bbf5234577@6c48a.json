@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Exhaust_Fire",
+    "texture": "11e01cc6-122e-4f9c-9eca-91bbf5234577",
+    "atlas": "",
+    "rect": [
+      54,
+      42,
+      19,
+      44
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

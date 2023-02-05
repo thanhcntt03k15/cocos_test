@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sprite_Effects_Exhaust_01_006",
+    "texture": "46deda90-fe61-46ce-9025-ae43f1bb1583",
+    "atlas": "",
+    "rect": [
+      118,
+      136,
+      19,
+      56
+    ],
+    "offset": [
+      -0.5,
+      -36
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

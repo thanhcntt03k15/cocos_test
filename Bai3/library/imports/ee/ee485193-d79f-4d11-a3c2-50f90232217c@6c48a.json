@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sprite_Fire_Shots_Shot_B_001",
+    "texture": "ee485193-d79f-4d11-a3c2-50f90232217c",
+    "atlas": "",
+    "rect": [
+      94,
+      77,
+      68,
+      82
+    ],
+    "offset": [
+      0,
+      10
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

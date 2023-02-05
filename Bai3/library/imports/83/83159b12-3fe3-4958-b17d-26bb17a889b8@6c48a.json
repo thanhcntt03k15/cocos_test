@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Medium_Shell",
+    "texture": "83159b12-3fe3-4958-b17d-26bb17a889b8",
+    "atlas": "",
+    "rect": [
+      56,
+      45,
+      16,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

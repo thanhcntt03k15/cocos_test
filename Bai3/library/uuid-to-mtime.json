@@ -1,0 +1,2292 @@
+{
+  "29f52784-2fca-467b-92e7-8fd9ef8c57b7": {
+    "asset": 1675141184568,
+    "meta": 1675147534080,
+    "relativePath": "Scene"
+  },
+  "4734c20c-0db8-4eb2-92ea-e692f4d70934": {
+    "asset": 1675407561370,
+    "meta": 1675503869334,
+    "relativePath": "Script"
+  },
+  "7b81d4e8-ec84-4716-968d-500ac1d78a54": {
+    "asset": 1675141184572,
+    "meta": 1675147534082,
+    "relativePath": "Texture"
+  },
+  "2d2f792f-a40c-49bb-a189-ed176a246e49": {
+    "asset": 1675583379554,
+    "meta": 1675583379598,
+    "relativePath": "Scene\\MainGame.fire"
+  },
+  "a8027877-d8d6-4645-97a0-52d4a0123dba": {
+    "asset": 1675141184572,
+    "meta": 1675147534219,
+    "relativePath": "Texture\\singleColor.png"
+  },
+  "6aa0aa6a-ebee-4155-a088-a687a6aadec4": {
+    "asset": 1675141184571,
+    "meta": 1675147534227,
+    "relativePath": "Texture\\HelloWorld.png"
+  },
+  "a159b541-f9ae-42fa-98d6-257b2fde68e5": {
+    "asset": 1675141184422,
+    "meta": 1675147534078,
+    "relativePath": "Lib"
+  },
+  "a2363bc9-8479-4ac1-b92b-c528deed9f46": {
+    "asset": 1675141184557,
+    "meta": 1675147534083,
+    "relativePath": "Lib\\PNG"
+  },
+  "99e07131-1032-4068-807d-63b739b035ea": {
+    "asset": 1675141184462,
+    "meta": 1675147534167,
+    "relativePath": "Lib\\PNG\\Effects"
+  },
+  "c3a4f0b3-1642-4615-8f85-b98e0fd61714": {
+    "asset": 1675141184466,
+    "meta": 1675147534167,
+    "relativePath": "Lib\\PNG\\Hulls_Color_A"
+  },
+  "bc0bb34e-a1e6-4c32-a2f8-6c347080b736": {
+    "asset": 1675141184471,
+    "meta": 1675147534168,
+    "relativePath": "Lib\\PNG\\Hulls_Color_B"
+  },
+  "55897f8d-2647-4bdc-abd2-4e7f2a6527d6": {
+    "asset": 1675141184476,
+    "meta": 1675147534168,
+    "relativePath": "Lib\\PNG\\Hulls_Color_C"
+  },
+  "64996a29-aac2-48a3-b869-50c8171ce583": {
+    "asset": 1675141184480,
+    "meta": 1675147534173,
+    "relativePath": "Lib\\PNG\\Hulls_Color_D"
+  },
+  "ec31e0d4-7665-40cc-ab89-ffcbacdf0052": {
+    "asset": 1675141184484,
+    "meta": 1675147534174,
+    "relativePath": "Lib\\PNG\\Tracks"
+  },
+  "7ccdfd30-e664-49b7-bbb8-f80e6b89a915": {
+    "asset": 1675141184494,
+    "meta": 1675147534174,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A"
+  },
+  "1b5edd1e-3b18-4ba1-add9-ed42ce0c1b61": {
+    "asset": 1675141184506,
+    "meta": 1675147534175,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256"
+  },
+  "013a540e-e37a-4113-9764-10bcee9e1506": {
+    "asset": 1675141184514,
+    "meta": 1675147534176,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B"
+  },
+  "ab35b420-bad0-4c89-804b-b8fd4829b985": {
+    "asset": 1675141184527,
+    "meta": 1675147534177,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256"
+  },
+  "f6c2fa53-64c5-4ddf-8cdc-5c343cf685bd": {
+    "asset": 1675141184537,
+    "meta": 1675147534178,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C"
+  },
+  "f7985024-d249-4e37-92c2-36a5f8223c4e": {
+    "asset": 1675141184547,
+    "meta": 1675147534179,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256"
+  },
+  "31e856a0-c091-4801-8867-28084f009ecf": {
+    "asset": 1675141184557,
+    "meta": 1675147534180,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D"
+  },
+  "9a82d646-cd72-4444-9653-48d5f9561933": {
+    "asset": 1675141184566,
+    "meta": 1675147534181,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256"
+  },
+  "a26b9fc0-e10c-4eb2-955a-02aec4a34270": {
+    "asset": 1675141184423,
+    "meta": 1675147534232,
+    "relativePath": "Lib\\PNG\\Effects\\Explosion_B.png"
+  },
+  "11e01cc6-122e-4f9c-9eca-91bbf5234577": {
+    "asset": 1675141184422,
+    "meta": 1675147534208,
+    "relativePath": "Lib\\PNG\\Effects\\Exhaust_Fire.png"
+  },
+  "e6071cf1-a47c-4e7c-bd9f-a45be1acf961": {
+    "asset": 1675141184422,
+    "meta": 1675147534218,
+    "relativePath": "Lib\\PNG\\Effects\\Explosion_A.png"
+  },
+  "e0451d07-26e0-4a63-af55-1b58101f9373": {
+    "asset": 1675141184424,
+    "meta": 1675147534233,
+    "relativePath": "Lib\\PNG\\Effects\\Explosion_E.png"
+  },
+  "ebace8ca-c29f-41bd-99af-3adf5ce09e89": {
+    "asset": 1675141184424,
+    "meta": 1675147534230,
+    "relativePath": "Lib\\PNG\\Effects\\Explosion_D.png"
+  },
+  "749b06a1-4a1d-4f0d-9cc0-ca988e63db8f": {
+    "asset": 1675141184423,
+    "meta": 1675147534228,
+    "relativePath": "Lib\\PNG\\Effects\\Explosion_C.png"
+  },
+  "f325271d-174d-445f-9ca7-4833f2d13c6c": {
+    "asset": 1675141184425,
+    "meta": 1675147534253,
+    "relativePath": "Lib\\PNG\\Effects\\Explosion_F.png"
+  },
+  "3314ca8c-e366-4960-bf35-e6926ebc7a3b": {
+    "asset": 1675141184425,
+    "meta": 1675147534251,
+    "relativePath": "Lib\\PNG\\Effects\\Explosion_G.png"
+  },
+  "0eff547a-06bb-4fa7-9b11-018e076f12c6": {
+    "asset": 1675141184426,
+    "meta": 1675147534260,
+    "relativePath": "Lib\\PNG\\Effects\\Explosion_H.png"
+  },
+  "718ce885-ef3c-44f9-b5a3-c446284f9efc": {
+    "asset": 1675141184426,
+    "meta": 1675147534258,
+    "relativePath": "Lib\\PNG\\Effects\\Flame_A.png"
+  },
+  "6ca079d4-21d9-4ed2-9c65-ab44a4f1500e": {
+    "asset": 1675141184426,
+    "meta": 1675147534249,
+    "relativePath": "Lib\\PNG\\Effects\\Flame_B.png"
+  },
+  "a96946c6-4190-47fb-ab43-d15831f9aa26": {
+    "asset": 1675141184427,
+    "meta": 1675147534261,
+    "relativePath": "Lib\\PNG\\Effects\\Flame_C.png"
+  },
+  "155cb070-d169-4cbd-86fe-d075561c8cf1": {
+    "asset": 1675141184427,
+    "meta": 1675147534256,
+    "relativePath": "Lib\\PNG\\Effects\\Flame_D.png"
+  },
+  "8fbf30be-ad51-4a44-ae88-bcece2115348": {
+    "asset": 1675141184427,
+    "meta": 1675147534254,
+    "relativePath": "Lib\\PNG\\Effects\\Flame_E.png"
+  },
+  "6dac4637-f81a-4e1d-8ad7-3b74b5de7a82": {
+    "asset": 1675141184428,
+    "meta": 1675147534277,
+    "relativePath": "Lib\\PNG\\Effects\\Flame_F.png"
+  },
+  "35bc005c-f407-4989-b44d-c6f43e4b259d": {
+    "asset": 1675141184428,
+    "meta": 1675147534281,
+    "relativePath": "Lib\\PNG\\Effects\\Flame_G.png"
+  },
+  "ee102082-3618-4166-bc23-48256c0ccd0e": {
+    "asset": 1675141184429,
+    "meta": 1675147534276,
+    "relativePath": "Lib\\PNG\\Effects\\Flash_A_01.png"
+  },
+  "47379c3d-c3f5-4f4a-b039-8536ccf97263": {
+    "asset": 1675141184430,
+    "meta": 1675147534283,
+    "relativePath": "Lib\\PNG\\Effects\\Flash_A_02.png"
+  },
+  "08e1422b-4ea3-4475-9c7a-29cbc4727568": {
+    "asset": 1675141184430,
+    "meta": 1675147534285,
+    "relativePath": "Lib\\PNG\\Effects\\Flash_A_03.png"
+  },
+  "0f09e4e2-23ab-4c16-9eed-746ef1e3fd63": {
+    "asset": 1675141184429,
+    "meta": 1675147534279,
+    "relativePath": "Lib\\PNG\\Effects\\Flame_H.png"
+  },
+  "437aa16a-62d7-4910-a005-37865364ffb9": {
+    "asset": 1675141184430,
+    "meta": 1675147534287,
+    "relativePath": "Lib\\PNG\\Effects\\Flash_A_04.png"
+  },
+  "ff39a8bc-4f95-4da9-98f9-b6888a57bb9d": {
+    "asset": 1675141184431,
+    "meta": 1675147534300,
+    "relativePath": "Lib\\PNG\\Effects\\Flash_B_01.png"
+  },
+  "a5cde0a5-920f-4324-a359-8983be2180d4": {
+    "asset": 1675141184431,
+    "meta": 1675147534284,
+    "relativePath": "Lib\\PNG\\Effects\\Flash_A_05.png"
+  },
+  "fc848f43-f6a2-4afd-b133-e7c1c8444851": {
+    "asset": 1675141184431,
+    "meta": 1675147534305,
+    "relativePath": "Lib\\PNG\\Effects\\Flash_B_02.png"
+  },
+  "3029817b-87f4-4f18-aeff-d9457c428526": {
+    "asset": 1675141184432,
+    "meta": 1675147534303,
+    "relativePath": "Lib\\PNG\\Effects\\Flash_B_03.png"
+  },
+  "9b4fba45-daf0-4869-8c75-8b0a3cfcae1d": {
+    "asset": 1675141184432,
+    "meta": 1675147534308,
+    "relativePath": "Lib\\PNG\\Effects\\Flash_B_05.png"
+  },
+  "51d2e236-f2d3-4636-a414-d17df5afe62d": {
+    "asset": 1675141184433,
+    "meta": 1675147534310,
+    "relativePath": "Lib\\PNG\\Effects\\Granade_Shell.png"
+  },
+  "ff91ed65-feea-445b-a6d5-471c8151334e": {
+    "asset": 1675141184432,
+    "meta": 1675147534302,
+    "relativePath": "Lib\\PNG\\Effects\\Flash_B_04.png"
+  },
+  "bf5c0e49-9ddc-44e8-af32-0c2466767626": {
+    "asset": 1675141184433,
+    "meta": 1675147534307,
+    "relativePath": "Lib\\PNG\\Effects\\Laser.png"
+  },
+  "596e6b68-bb67-4237-9ad0-d79b3cefdb69": {
+    "asset": 1675141184433,
+    "meta": 1675147534311,
+    "relativePath": "Lib\\PNG\\Effects\\Light_Shell.png"
+  },
+  "5632eb2d-47ab-4ed4-b14d-895b318f7bfd": {
+    "asset": 1675141184461,
+    "meta": 1675147534312,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites"
+  },
+  "83159b12-3fe3-4958-b17d-26bb17a889b8": {
+    "asset": 1675141184434,
+    "meta": 1675147534330,
+    "relativePath": "Lib\\PNG\\Effects\\Medium_Shell.png"
+  },
+  "c6538c55-dd39-4ad9-9a00-12cf7c34b1ac": {
+    "asset": 1675141184434,
+    "meta": 1675147534328,
+    "relativePath": "Lib\\PNG\\Effects\\Plasma.png"
+  },
+  "45d13fe1-8ee8-454c-90f0-4d7d8a67e805": {
+    "asset": 1675141184435,
+    "meta": 1675147534327,
+    "relativePath": "Lib\\PNG\\Effects\\Shotgun_Shells.png"
+  },
+  "0a33722f-4c96-43fa-9d19-b606ca23a690": {
+    "asset": 1675141184435,
+    "meta": 1675147534332,
+    "relativePath": "Lib\\PNG\\Effects\\Smoke_A.png"
+  },
+  "63145198-0af5-453b-88ff-48f9535a9ead": {
+    "asset": 1675141184436,
+    "meta": 1675147534335,
+    "relativePath": "Lib\\PNG\\Effects\\Smoke_B.png"
+  },
+  "c29e2456-4790-421b-bf4b-380a8470bd86": {
+    "asset": 1675141184436,
+    "meta": 1675147534336,
+    "relativePath": "Lib\\PNG\\Effects\\Smoke_C.png"
+  },
+  "3902a83e-2f40-40ad-b9cc-f987c6ed70e5": {
+    "asset": 1675141184437,
+    "meta": 1675147534334,
+    "relativePath": "Lib\\PNG\\Effects\\Sniper_Shell.png"
+  },
+  "9fc4fc30-fd46-4c7a-a44f-5da194e63b46": {
+    "asset": 1675141184461,
+    "meta": 1675147534338,
+    "relativePath": "Lib\\PNG\\Effects\\Tire_Track_01.png"
+  },
+  "9b8dd1fa-aaaa-4885-bd17-144e8ee88c61": {
+    "asset": 1675141184461,
+    "meta": 1675147534354,
+    "relativePath": "Lib\\PNG\\Effects\\Tire_Track_02.png"
+  },
+  "fc9d67fe-4e3e-48eb-9cb6-4bef84bac666": {
+    "asset": 1675141184462,
+    "meta": 1675147534364,
+    "relativePath": "Lib\\PNG\\Hulls_Color_A\\Hull_01.png"
+  },
+  "c9b4e95a-1a54-44d3-b55a-da64bebd5cd0": {
+    "asset": 1675141184463,
+    "meta": 1675147534358,
+    "relativePath": "Lib\\PNG\\Hulls_Color_A\\Hull_02.png"
+  },
+  "ac1db5ab-cf8a-465c-8d85-d30ba7be70ef": {
+    "asset": 1675141184463,
+    "meta": 1675147534356,
+    "relativePath": "Lib\\PNG\\Hulls_Color_A\\Hull_03.png"
+  },
+  "a4d9d13d-daed-4afd-825b-abeab206c683": {
+    "asset": 1675141184464,
+    "meta": 1675147534363,
+    "relativePath": "Lib\\PNG\\Hulls_Color_A\\Hull_05.png"
+  },
+  "d310441a-2fb4-412c-90cd-efdc1e0da8b4": {
+    "asset": 1675141184464,
+    "meta": 1675147534360,
+    "relativePath": "Lib\\PNG\\Hulls_Color_A\\Hull_04.png"
+  },
+  "a473c996-0b32-42b9-ae4c-5e10388a8d0d": {
+    "asset": 1675141184465,
+    "meta": 1675147534368,
+    "relativePath": "Lib\\PNG\\Hulls_Color_A\\Hull_06.png"
+  },
+  "57ad82cc-01b8-4407-bccc-2ca8ef927f89": {
+    "asset": 1675141184465,
+    "meta": 1675147534366,
+    "relativePath": "Lib\\PNG\\Hulls_Color_A\\Hull_07.png"
+  },
+  "c6dc563b-2006-4ecf-964c-95440ae22edc": {
+    "asset": 1675141184466,
+    "meta": 1675147534381,
+    "relativePath": "Lib\\PNG\\Hulls_Color_A\\Hull_08.png"
+  },
+  "08332318-31e4-4494-a235-c93f5f28884b": {
+    "asset": 1675141184466,
+    "meta": 1675147534385,
+    "relativePath": "Lib\\PNG\\Hulls_Color_B\\Hull_01.png"
+  },
+  "252719b0-8abc-4974-9024-1e73618effa4": {
+    "asset": 1675141184467,
+    "meta": 1675147534388,
+    "relativePath": "Lib\\PNG\\Hulls_Color_B\\Hull_02.png"
+  },
+  "6106811e-bb41-4390-8e74-441475f9e1d5": {
+    "asset": 1675141184469,
+    "meta": 1675147534392,
+    "relativePath": "Lib\\PNG\\Hulls_Color_B\\Hull_04.png"
+  },
+  "7535ebc3-b68a-40df-8c1d-e797f70b25a0": {
+    "asset": 1675141184470,
+    "meta": 1675147534390,
+    "relativePath": "Lib\\PNG\\Hulls_Color_B\\Hull_05.png"
+  },
+  "bdd56eb0-a02d-4a20-848d-ce3ea4e78121": {
+    "asset": 1675141184470,
+    "meta": 1675147534396,
+    "relativePath": "Lib\\PNG\\Hulls_Color_B\\Hull_06.png"
+  },
+  "5739acd5-604f-4a63-8cd5-0de5e894f859": {
+    "asset": 1675141184468,
+    "meta": 1675147534386,
+    "relativePath": "Lib\\PNG\\Hulls_Color_B\\Hull_03.png"
+  },
+  "3db14bce-9ee5-4857-8658-e25c5ed5cdd3": {
+    "asset": 1675141184471,
+    "meta": 1675147534398,
+    "relativePath": "Lib\\PNG\\Hulls_Color_B\\Hull_07.png"
+  },
+  "fb1af08c-ba36-46e9-a939-87b32a95267b": {
+    "asset": 1675141184471,
+    "meta": 1675147534412,
+    "relativePath": "Lib\\PNG\\Hulls_Color_B\\Hull_08.png"
+  },
+  "9d50df73-1546-471f-8af6-e583135b3371": {
+    "asset": 1675141184472,
+    "meta": 1675147534417,
+    "relativePath": "Lib\\PNG\\Hulls_Color_C\\Hull_01.png"
+  },
+  "74524ae3-0027-484d-aa03-623e99b44e3f": {
+    "asset": 1675141184473,
+    "meta": 1675147534415,
+    "relativePath": "Lib\\PNG\\Hulls_Color_C\\Hull_02.png"
+  },
+  "2d4c0ec9-e071-4e51-8833-3d22e1e5c6ab": {
+    "asset": 1675141184473,
+    "meta": 1675147534419,
+    "relativePath": "Lib\\PNG\\Hulls_Color_C\\Hull_03.png"
+  },
+  "30489416-7b7a-48f5-a383-1300501d0678": {
+    "asset": 1675141184474,
+    "meta": 1675147534421,
+    "relativePath": "Lib\\PNG\\Hulls_Color_C\\Hull_04.png"
+  },
+  "0f7b9b3b-e293-4d04-8f57-63795756a374": {
+    "asset": 1675141184475,
+    "meta": 1675147534423,
+    "relativePath": "Lib\\PNG\\Hulls_Color_C\\Hull_07.png"
+  },
+  "d1391fdd-8384-4cf7-ac66-dc79088b0f6a": {
+    "asset": 1675141184476,
+    "meta": 1675147534439,
+    "relativePath": "Lib\\PNG\\Hulls_Color_C\\Hull_08.png"
+  },
+  "0703f7d5-5161-4f6a-89da-7fd2524d21b2": {
+    "asset": 1675141184474,
+    "meta": 1675147534424,
+    "relativePath": "Lib\\PNG\\Hulls_Color_C\\Hull_05.png"
+  },
+  "0443b2e7-0f73-49db-af3f-ba90296a85b5": {
+    "asset": 1675141184478,
+    "meta": 1675147534452,
+    "relativePath": "Lib\\PNG\\Hulls_Color_D\\Hull_04.png"
+  },
+  "e3401777-204d-4797-a4ef-bd2020a138ad": {
+    "asset": 1675141184477,
+    "meta": 1675147534443,
+    "relativePath": "Lib\\PNG\\Hulls_Color_D\\Hull_01.png"
+  },
+  "a987a271-317d-4795-b389-8c6effd9ddda": {
+    "asset": 1675141184475,
+    "meta": 1675147534426,
+    "relativePath": "Lib\\PNG\\Hulls_Color_C\\Hull_06.png"
+  },
+  "d345f70f-4f49-4296-acdf-bbf7414a646d": {
+    "asset": 1675141184477,
+    "meta": 1675147534450,
+    "relativePath": "Lib\\PNG\\Hulls_Color_D\\Hull_02.png"
+  },
+  "7b2e68fe-7f76-4bac-92b2-31c070e58935": {
+    "asset": 1675141184478,
+    "meta": 1675147534441,
+    "relativePath": "Lib\\PNG\\Hulls_Color_D\\Hull_03.png"
+  },
+  "75a199b0-134c-456a-9c55-2f13025b1068": {
+    "asset": 1675141184479,
+    "meta": 1675147534448,
+    "relativePath": "Lib\\PNG\\Hulls_Color_D\\Hull_06.png"
+  },
+  "5d93ceb7-94c3-41dc-bb68-44f02f705a42": {
+    "asset": 1675141184479,
+    "meta": 1675147534454,
+    "relativePath": "Lib\\PNG\\Hulls_Color_D\\Hull_05.png"
+  },
+  "7b2a8a03-3840-45f8-86e6-efbbcff52642": {
+    "asset": 1675141184481,
+    "meta": 1675147534473,
+    "relativePath": "Lib\\PNG\\Tracks\\Track_1_B.png"
+  },
+  "16339373-a691-430e-8368-03960b3a95af": {
+    "asset": 1675141184480,
+    "meta": 1675147534456,
+    "relativePath": "Lib\\PNG\\Hulls_Color_D\\Hull_07.png"
+  },
+  "ba5f0baa-3fcc-4936-8b07-164c94e97c5a": {
+    "asset": 1675141184480,
+    "meta": 1675147534471,
+    "relativePath": "Lib\\PNG\\Hulls_Color_D\\Hull_08.png"
+  },
+  "729fadf9-702e-4b1c-81ee-e447d1714ce1": {
+    "asset": 1675141184481,
+    "meta": 1675147534468,
+    "relativePath": "Lib\\PNG\\Tracks\\Track_1_A.png"
+  },
+  "a096c297-9ec3-40ba-acf6-f1ce60f0cea4": {
+    "asset": 1675141184482,
+    "meta": 1675147534475,
+    "relativePath": "Lib\\PNG\\Tracks\\Track_2_A.png"
+  },
+  "d3aa7f86-0e6a-479f-b1dc-7b35a6bd1f09": {
+    "asset": 1675141184482,
+    "meta": 1675147534470,
+    "relativePath": "Lib\\PNG\\Tracks\\Track_2_B.png"
+  },
+  "ec0aa335-b7ce-4076-8670-13866f76aa1b": {
+    "asset": 1675141184482,
+    "meta": 1675147534477,
+    "relativePath": "Lib\\PNG\\Tracks\\Track_3_A.png"
+  },
+  "4b967b99-78fc-46ca-b06c-bcb421d49283": {
+    "asset": 1675141184483,
+    "meta": 1675147534487,
+    "relativePath": "Lib\\PNG\\Tracks\\Track_4_A.png"
+  },
+  "fdd14499-392f-4ffa-8832-14a957d25223": {
+    "asset": 1675141184483,
+    "meta": 1675147534476,
+    "relativePath": "Lib\\PNG\\Tracks\\Track_3_B.png"
+  },
+  "1d9117f4-13d5-476f-9a20-c3148e6adbcb": {
+    "asset": 1675141184483,
+    "meta": 1675147534490,
+    "relativePath": "Lib\\PNG\\Tracks\\Track_4_B.png"
+  },
+  "50c28045-ae52-4020-a4b5-535124e81713": {
+    "asset": 1675141184485,
+    "meta": 1675147534494,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_01.png"
+  },
+  "4f3fc121-3e41-402e-a693-2ba7911c1eb5": {
+    "asset": 1675141184485,
+    "meta": 1675147534492,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_01_A.png"
+  },
+  "2d48ee74-ae67-4c61-b7b9-ba1c14db952f": {
+    "asset": 1675141184486,
+    "meta": 1675147534495,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_01_B.png"
+  },
+  "d06644b1-4645-4e08-91a1-b2babf028aab": {
+    "asset": 1675141184487,
+    "meta": 1675147534498,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_02_B.png"
+  },
+  "7a6f88e1-555b-4c0b-b205-2ad278ebdba0": {
+    "asset": 1675141184487,
+    "meta": 1675147534497,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_02_A.png"
+  },
+  "b5db4ba1-1733-4862-8f89-29af9f94a861": {
+    "asset": 1675141184487,
+    "meta": 1675147534500,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_02.png"
+  },
+  "1f0632f9-13b9-4ba2-b4bb-44673eba6ea4": {
+    "asset": 1675141184488,
+    "meta": 1675147534513,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_03_A.png"
+  },
+  "a3b5546a-9d96-4fed-97a1-3e92704844a4": {
+    "asset": 1675141184488,
+    "meta": 1675147534511,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_03.png"
+  },
+  "7cca6bb5-58de-4840-a5c4-b16ff9adc245": {
+    "asset": 1675141184489,
+    "meta": 1675147534519,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_04.png"
+  },
+  "c1dbbe0a-f7a7-456f-ab77-9425f7607b7c": {
+    "asset": 1675141184488,
+    "meta": 1675147534516,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_03_B.png"
+  },
+  "feda7bf5-f0f7-4fc7-93f7-52a1ec19ab93": {
+    "asset": 1675141184490,
+    "meta": 1675147534523,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_05_A.png"
+  },
+  "7e494f3b-b755-4d0b-bf64-d43af8a37d9d": {
+    "asset": 1675141184489,
+    "meta": 1675147534517,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_04_A.png"
+  },
+  "997d0dd8-7e26-4559-aaf0-faf83ee60032": {
+    "asset": 1675141184490,
+    "meta": 1675147534520,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_04_B.png"
+  },
+  "6fefd179-2cd2-464f-98fd-0c76a5d4d54d": {
+    "asset": 1675141184490,
+    "meta": 1675147534522,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_05.png"
+  },
+  "116611c9-7f8a-463a-b571-d5d7550cf961": {
+    "asset": 1675141184491,
+    "meta": 1675147534537,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_06.png"
+  },
+  "8b10646b-9485-45e4-a0f2-be732681584c": {
+    "asset": 1675141184491,
+    "meta": 1675147534535,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_05_B.png"
+  },
+  "e9444d9a-b490-49b7-b570-a4a108971aaf": {
+    "asset": 1675141184491,
+    "meta": 1675147534540,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_06_A.png"
+  },
+  "0ce4c6c5-6ca0-496d-8838-d7de61366912": {
+    "asset": 1675141184492,
+    "meta": 1675147534542,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_06_B.png"
+  },
+  "8c2e93f9-b45e-4cc5-9f2a-0fbd7554ed7f": {
+    "asset": 1675141184492,
+    "meta": 1675147534545,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_07.png"
+  },
+  "64366602-88cd-4464-918f-e8e9081dd0e6": {
+    "asset": 1675141184493,
+    "meta": 1675147534538,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_07_A.png"
+  },
+  "e63cbefd-3a47-48cd-b59d-6ad7b763fc31": {
+    "asset": 1675141184494,
+    "meta": 1675147534560,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_08_A.png"
+  },
+  "a6ae7675-0d81-4fc6-87b4-8334b9d633b9": {
+    "asset": 1675141184493,
+    "meta": 1675147534541,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_07_B.png"
+  },
+  "c5636728-79ee-45d5-865d-19d82aca7d67": {
+    "asset": 1675141184493,
+    "meta": 1675147534544,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_08.png"
+  },
+  "5838f33d-b658-43d8-a434-9d1f685bebe5": {
+    "asset": 1675141184494,
+    "meta": 1675147534561,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A\\Gun_08_B.png"
+  },
+  "02c5e951-1e11-4eb5-8703-0fcca83b071c": {
+    "asset": 1675141184495,
+    "meta": 1675147534558,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_01.png"
+  },
+  "c3cadbb6-6386-4767-a806-6b3ce08bb33b": {
+    "asset": 1675141184495,
+    "meta": 1675147534568,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_01_A.png"
+  },
+  "e481d1fa-53b5-4002-bb87-f1631ae81e43": {
+    "asset": 1675141184496,
+    "meta": 1675147534564,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_01_B.png"
+  },
+  "f4ba97f7-c2f2-403a-b651-cadc5e400ab1": {
+    "asset": 1675141184496,
+    "meta": 1675147534571,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_02.png"
+  },
+  "c41b20a1-fcff-4ddf-85de-97ac9de9d101": {
+    "asset": 1675141184496,
+    "meta": 1675147534566,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_02_A.png"
+  },
+  "b8f2bdc8-b152-4c2e-89c7-4666047c3d14": {
+    "asset": 1675141184498,
+    "meta": 1675147534612,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_03_A.png"
+  },
+  "1bd240fe-b4df-439e-8434-4b0739468181": {
+    "asset": 1675141184497,
+    "meta": 1675147534610,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_03.png"
+  },
+  "96786b52-85b4-4bef-9b31-76e2bf6889f5": {
+    "asset": 1675141184497,
+    "meta": 1675147534569,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_02_B.png"
+  },
+  "57e87bf9-7e1c-4d41-bc9a-3d8393ff576f": {
+    "asset": 1675141184499,
+    "meta": 1675147534617,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_04_A.png"
+  },
+  "5ecfb551-abb9-435f-9a4b-4409e01b5445": {
+    "asset": 1675141184498,
+    "meta": 1675147534614,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_03_B.png"
+  },
+  "37b7c0b6-265b-48bf-8739-17fbe711f627": {
+    "asset": 1675141184498,
+    "meta": 1675147534620,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_04.png"
+  },
+  "0fa1c332-2d8f-4d76-898b-a5030c1524bb": {
+    "asset": 1675141184499,
+    "meta": 1675147534625,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_04_B.png"
+  },
+  "0b16ec58-5d55-4ff0-8bf7-ed8286b2adad": {
+    "asset": 1675141184499,
+    "meta": 1675147534623,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_05.png"
+  },
+  "e69f6985-6a1a-4249-a6d5-bacc390dc404": {
+    "asset": 1675141184501,
+    "meta": 1675147534641,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_06.png"
+  },
+  "99479b36-2c51-424f-8f57-2c39728f23b6": {
+    "asset": 1675141184500,
+    "meta": 1675147534622,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_05_A.png"
+  },
+  "692feb45-7d40-42de-a56a-d97ba4d37630": {
+    "asset": 1675141184501,
+    "meta": 1675147534645,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_05_B.png"
+  },
+  "db8a6c59-d3e9-4d4e-bba3-a4b5d119025b": {
+    "asset": 1675141184502,
+    "meta": 1675147534647,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_06_A.png"
+  },
+  "027f6778-8aa7-4ce1-bc53-0c8c7085b4e0": {
+    "asset": 1675141184504,
+    "meta": 1675147534651,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_07_A.png"
+  },
+  "7d679ad5-b413-4de4-9957-3c9a6e0b40c8": {
+    "asset": 1675141184503,
+    "meta": 1675147534649,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_06_B.png"
+  },
+  "3b810057-becb-411f-9535-52fdacb8ef94": {
+    "asset": 1675141184505,
+    "meta": 1675147534656,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_08.png"
+  },
+  "f71110bf-724e-4bac-83a2-3e54743fa744": {
+    "asset": 1675141184503,
+    "meta": 1675147534654,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_07.png"
+  },
+  "8719cf71-36fb-40fc-aa03-f9400fed29ee": {
+    "asset": 1675141184504,
+    "meta": 1675147534652,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_07_B.png"
+  },
+  "23d12257-d647-476a-81fe-c2633157481a": {
+    "asset": 1675141184505,
+    "meta": 1675147534674,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_08_A.png"
+  },
+  "6db151cc-2c89-44ec-9eea-53c449c82785": {
+    "asset": 1675141184505,
+    "meta": 1675147534676,
+    "relativePath": "Lib\\PNG\\Weapon_Color_A_256X256\\Gun_08_B.png"
+  },
+  "432fdc95-5f41-4072-aeaf-d35a8f7fc21b": {
+    "asset": 1675141184506,
+    "meta": 1675147534671,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_01_A.png"
+  },
+  "d28d5486-71b8-4320-a54f-0188dc7d5076": {
+    "asset": 1675141184507,
+    "meta": 1675147534679,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_01_B.png"
+  },
+  "30f698b4-9439-428f-837b-b9ef0593c357": {
+    "asset": 1675141184506,
+    "meta": 1675147534669,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_01.png"
+  },
+  "e19158da-c7bd-4a87-b5de-1f9caa7697e3": {
+    "asset": 1675141184507,
+    "meta": 1675147534680,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_02.png"
+  },
+  "d7e4bc23-156e-4166-9c61-1778e5e65f5d": {
+    "asset": 1675141184508,
+    "meta": 1675147534677,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_02_A.png"
+  },
+  "c7033309-3147-4f3b-91bc-a94428651a18": {
+    "asset": 1675141184508,
+    "meta": 1675147534681,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_02_B.png"
+  },
+  "d355395e-ea84-41be-9ef0-8e779181957d": {
+    "asset": 1675141184509,
+    "meta": 1675147534695,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_03_A.png"
+  },
+  "47978e4e-29a8-4ab9-b3de-c89a5aa18d94": {
+    "asset": 1675141184509,
+    "meta": 1675147534701,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_03_B.png"
+  },
+  "d720be0b-353b-481d-8273-493fdbce1e19": {
+    "asset": 1675141184509,
+    "meta": 1675147534704,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_04.png"
+  },
+  "d2a18f34-f96a-410d-a8e0-acd6bf6330f3": {
+    "asset": 1675141184510,
+    "meta": 1675147534697,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_04_A.png"
+  },
+  "66f80772-1005-4ec8-9e5f-23b4e42ec26d": {
+    "asset": 1675141184508,
+    "meta": 1675147534702,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_03.png"
+  },
+  "c2c6838e-f5e6-4661-a4c1-84668a694ba9": {
+    "asset": 1675141184510,
+    "meta": 1675147534698,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_04_B.png"
+  },
+  "b88105f2-ea87-4154-b7fa-a0bb024ef45b": {
+    "asset": 1675141184511,
+    "meta": 1675147534699,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_05_A.png"
+  },
+  "78213977-8772-4e03-b470-90ff321f585c": {
+    "asset": 1675141184510,
+    "meta": 1675147534705,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_05.png"
+  },
+  "a4c3ca80-c52d-457c-852a-0309483c94be": {
+    "asset": 1675141184511,
+    "meta": 1675147534719,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_05_B.png"
+  },
+  "6118a70d-f7f9-47d8-bda0-a2cc0d99135e": {
+    "asset": 1675141184512,
+    "meta": 1675147534720,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_06_A.png"
+  },
+  "c1aa9e73-b914-4ab2-b9a8-c7324a9804d8": {
+    "asset": 1675141184512,
+    "meta": 1675147534722,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_06_B.png"
+  },
+  "9143faf7-97e4-498f-a55e-1bd4e7fac03b": {
+    "asset": 1675141184512,
+    "meta": 1675147534724,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_07.png"
+  },
+  "6bc64e54-25dc-435c-8a37-72c7f458e0da": {
+    "asset": 1675141184513,
+    "meta": 1675147534723,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_07_A.png"
+  },
+  "7bec86c0-3d71-4a39-9249-641b482cca4e": {
+    "asset": 1675141184513,
+    "meta": 1675147534727,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_08.png"
+  },
+  "9fe5fe12-78bc-4b2e-82ff-6e99e630fe40": {
+    "asset": 1675141184514,
+    "meta": 1675147534743,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_08_A.png"
+  },
+  "5304bf94-9240-4ee3-9cf8-e57608c6f579": {
+    "asset": 1675141184511,
+    "meta": 1675147534726,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_06.png"
+  },
+  "ed220788-b6f1-4d41-b76e-4491d235bc61": {
+    "asset": 1675141184513,
+    "meta": 1675147534729,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_07_B.png"
+  },
+  "7f952147-2b27-4edb-97c9-b65d9557f597": {
+    "asset": 1675141184514,
+    "meta": 1675147534753,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B\\Gun_08_B.png"
+  },
+  "84dbb371-ffd7-4fe9-abc2-1b67d81935d8": {
+    "asset": 1675141184515,
+    "meta": 1675147534745,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_01.png"
+  },
+  "0f99ce7d-03c0-4ab8-b816-890c0b112a8b": {
+    "asset": 1675141184515,
+    "meta": 1675147534747,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_01_A.png"
+  },
+  "47d5823f-9e2c-4a05-8100-684b90593381": {
+    "asset": 1675141184515,
+    "meta": 1675147534752,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_01_B.png"
+  },
+  "99823748-0f31-481e-83da-9e4bc372f1c0": {
+    "asset": 1675141184516,
+    "meta": 1675147534748,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_02.png"
+  },
+  "a030994f-1e63-45a6-b1cd-c6b53d6929ce": {
+    "asset": 1675141184517,
+    "meta": 1675147534754,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_02_B.png"
+  },
+  "84aa446d-7d38-4632-9da1-df0883d53123": {
+    "asset": 1675141184518,
+    "meta": 1675147534775,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_03.png"
+  },
+  "f62a967f-7921-423e-b923-c7f2d5c8bd4e": {
+    "asset": 1675141184516,
+    "meta": 1675147534750,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_02_A.png"
+  },
+  "5613b80f-b846-473a-8713-a934611fa6f1": {
+    "asset": 1675141184519,
+    "meta": 1675147534769,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_03_A.png"
+  },
+  "72665b2b-6eb8-4c2f-9cc9-8fbe38cb3452": {
+    "asset": 1675141184519,
+    "meta": 1675147534774,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_03_B.png"
+  },
+  "ffcbd12a-6e40-4020-a298-fb9eac372b71": {
+    "asset": 1675141184520,
+    "meta": 1675147534770,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_04.png"
+  },
+  "5275fe7b-bcc1-4173-8bdc-88aea5209e24": {
+    "asset": 1675141184520,
+    "meta": 1675147534772,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_04_A.png"
+  },
+  "080b1a7a-77a6-4b35-80e8-36ebd6ba2e34": {
+    "asset": 1675141184521,
+    "meta": 1675147534777,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_05.png"
+  },
+  "8df1fb24-49e5-4bcb-b44f-015c1ce5d9ac": {
+    "asset": 1675141184521,
+    "meta": 1675147534780,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_04_B.png"
+  },
+  "5f48c829-9e54-41cf-85e3-facfe59669c7": {
+    "asset": 1675141184523,
+    "meta": 1675147534800,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_05_B.png"
+  },
+  "5bd6b9d4-5bbb-4ec4-85c7-c29ec389e190": {
+    "asset": 1675141184522,
+    "meta": 1675147534779,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_05_A.png"
+  },
+  "1a2e638b-7d95-4acc-86cb-fa3c13136832": {
+    "asset": 1675141184524,
+    "meta": 1675147534799,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_06_B.png"
+  },
+  "bcc81789-6bce-4ac5-8d21-d075530fecd6": {
+    "asset": 1675141184523,
+    "meta": 1675147534797,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_06.png"
+  },
+  "5716d696-a72b-4d7b-b549-8d7e7592d216": {
+    "asset": 1675141184525,
+    "meta": 1675147534808,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_07_A.png"
+  },
+  "c1621601-b868-47c1-97b0-32e213d92ff9": {
+    "asset": 1675141184524,
+    "meta": 1675147534803,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_06_A.png"
+  },
+  "bbd75197-fed9-4e7e-a89d-773dc0fef0cd": {
+    "asset": 1675141184526,
+    "meta": 1675147534809,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_07_B.png"
+  },
+  "c525bbe6-4d13-4af7-acc9-5a7bac429b73": {
+    "asset": 1675141184526,
+    "meta": 1675147534812,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_08.png"
+  },
+  "310982e2-8bee-4fe6-af75-a5b63f0e1988": {
+    "asset": 1675141184525,
+    "meta": 1675147534795,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_07.png"
+  },
+  "53032ab0-b3c3-4ac7-91bb-439007171445": {
+    "asset": 1675141184527,
+    "meta": 1675147534831,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_08_A.png"
+  },
+  "0f8b71a9-9636-4a9c-a8c2-63329218a17f": {
+    "asset": 1675141184527,
+    "meta": 1675147534833,
+    "relativePath": "Lib\\PNG\\Weapon_Color_B_256X256\\Gun_08_B.png"
+  },
+  "e4bab9cd-cf01-444e-9ce7-31939e7c8a70": {
+    "asset": 1675141184528,
+    "meta": 1675147534839,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_01_B.png"
+  },
+  "b00d5371-6fbe-4bed-8c95-5b424ba7d779": {
+    "asset": 1675141184528,
+    "meta": 1675147534828,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_01.png"
+  },
+  "5ac480db-ab2f-4f83-ac9e-9050859ed19c": {
+    "asset": 1675141184528,
+    "meta": 1675147534835,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_01_A.png"
+  },
+  "3248c8d4-dccd-44ba-bfbd-ce997b07e0bb": {
+    "asset": 1675141184529,
+    "meta": 1675147534842,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_02.png"
+  },
+  "cb224ac1-7e19-4eea-9462-824867ebc46e": {
+    "asset": 1675141184529,
+    "meta": 1675147534841,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_02_A.png"
+  },
+  "fe95bd5f-3732-4d20-b6dc-d589da67302f": {
+    "asset": 1675141184530,
+    "meta": 1675147534856,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_03_A.png"
+  },
+  "fd30ae29-5d7c-4ff9-b7e4-ba367115ce1b": {
+    "asset": 1675141184529,
+    "meta": 1675147534846,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_02_B.png"
+  },
+  "24b8fbca-1f23-449f-b0ac-2482b736ccfd": {
+    "asset": 1675141184530,
+    "meta": 1675147534854,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_03.png"
+  },
+  "a88b5866-c704-45de-9d94-f866243443d8": {
+    "asset": 1675141184531,
+    "meta": 1675147534859,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_04.png"
+  },
+  "0780935a-c129-4184-bea1-21bc22850824": {
+    "asset": 1675141184531,
+    "meta": 1675147534866,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_04_A.png"
+  },
+  "9c7d09ff-7008-420e-984c-9a344796afc7": {
+    "asset": 1675141184530,
+    "meta": 1675147534857,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_03_B.png"
+  },
+  "bc044f25-0a49-432b-a21e-fbcfeddd71cf": {
+    "asset": 1675141184532,
+    "meta": 1675147534871,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_05_A.png"
+  },
+  "d2d8a520-31e7-4e28-8ad2-6ad6935470d3": {
+    "asset": 1675141184532,
+    "meta": 1675147534882,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_05_B.png"
+  },
+  "d9c28795-ba83-48b6-9c80-bbeb4d87fdae": {
+    "asset": 1675141184531,
+    "meta": 1675147534869,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_04_B.png"
+  },
+  "51995013-53f1-4fbd-8e14-58d4f7a8dc05": {
+    "asset": 1675141184533,
+    "meta": 1675147534883,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_06.png"
+  },
+  "625bcb4b-9170-4525-a1a1-0ad1d863b164": {
+    "asset": 1675141184533,
+    "meta": 1675147534885,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_06_A.png"
+  },
+  "df3cbfa7-8349-4c63-8f3b-b94bd9d8b70f": {
+    "asset": 1675141184532,
+    "meta": 1675147534867,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_05.png"
+  },
+  "aa210614-0b3d-4de4-9b02-01b41087ed7d": {
+    "asset": 1675141184534,
+    "meta": 1675147534880,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_06_B.png"
+  },
+  "c0a1fa82-5d8b-4249-a8d7-a2814ca7683f": {
+    "asset": 1675141184534,
+    "meta": 1675147534904,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_07.png"
+  },
+  "1fd3f664-985e-48d7-97f0-60b96fd2abfe": {
+    "asset": 1675141184535,
+    "meta": 1675147534898,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_07_A.png"
+  },
+  "3035b289-4560-46d8-9ae8-3b9b93c48d93": {
+    "asset": 1675141184535,
+    "meta": 1675147534902,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_07_B.png"
+  },
+  "1f243be9-d38f-4bb0-b4c7-00be134739b2": {
+    "asset": 1675141184536,
+    "meta": 1675147534901,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_08.png"
+  },
+  "c5350b4d-f9b6-4973-9759-bd144ac4b561": {
+    "asset": 1675141184536,
+    "meta": 1675147534912,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_08_A.png"
+  },
+  "8410c9e8-d52c-40e2-93fd-482d178e0a91": {
+    "asset": 1675141184537,
+    "meta": 1675147534913,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C\\Gun_08_B.png"
+  },
+  "87396f56-5228-48ff-ba70-97b2a945a36e": {
+    "asset": 1675141184537,
+    "meta": 1675147534915,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_01.png"
+  },
+  "e0b0e2ca-3781-4090-8c4c-6db2311bb41d": {
+    "asset": 1675141184538,
+    "meta": 1675147534917,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_01_A.png"
+  },
+  "c491c4a4-351e-47c3-b768-102d8b0cdf40": {
+    "asset": 1675141184539,
+    "meta": 1675147534930,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_02.png"
+  },
+  "54183599-7e4a-4675-9197-0bd167212b39": {
+    "asset": 1675141184539,
+    "meta": 1675147534935,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_02_A.png"
+  },
+  "15b54e07-b4a9-4723-8257-2ee1df002348": {
+    "asset": 1675141184540,
+    "meta": 1675147534941,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_03_A.png"
+  },
+  "76614722-5652-418e-9cf9-826236f76106": {
+    "asset": 1675141184538,
+    "meta": 1675147534928,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_01_B.png"
+  },
+  "5c5c7dc6-ecd6-4bfd-99ab-f890b8be4950": {
+    "asset": 1675141184540,
+    "meta": 1675147534939,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_03.png"
+  },
+  "c99724ff-991a-4873-a83a-347902c552c1": {
+    "asset": 1675141184541,
+    "meta": 1675147534944,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_03_B.png"
+  },
+  "b4415465-6d4c-41ef-b8b8-d638d4017cbc": {
+    "asset": 1675141184539,
+    "meta": 1675147534933,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_02_B.png"
+  },
+  "3869774b-b9ee-4e16-9f5b-b7b26b430eb2": {
+    "asset": 1675141184541,
+    "meta": 1675147534946,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_04.png"
+  },
+  "db64cc99-cb9a-4fe9-8bc4-dbf2c242a4c1": {
+    "asset": 1675141184541,
+    "meta": 1675147534960,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_04_A.png"
+  },
+  "72eb94ba-d416-419e-a52b-ae3245c6d00d": {
+    "asset": 1675141184542,
+    "meta": 1675147534962,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_05.png"
+  },
+  "46e3906e-88af-4ba4-83ca-80d24741b8f4": {
+    "asset": 1675141184542,
+    "meta": 1675147534958,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_05_A.png"
+  },
+  "f4229aab-2765-46fa-a565-f963d23bfc8b": {
+    "asset": 1675141184543,
+    "meta": 1675147534970,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_05_B.png"
+  },
+  "17eb3070-9d51-44ae-bbb8-00deeddfeae9": {
+    "asset": 1675141184542,
+    "meta": 1675147534964,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_04_B.png"
+  },
+  "90ab9148-1daa-4098-b35d-0a0354adb067": {
+    "asset": 1675141184544,
+    "meta": 1675147534979,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_06_B.png"
+  },
+  "9aa93642-8ad2-414b-9630-371ef131c6d3": {
+    "asset": 1675141184544,
+    "meta": 1675147534981,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_06_A.png"
+  },
+  "acce5791-506a-468d-8108-7d56819a6b2b": {
+    "asset": 1675141184543,
+    "meta": 1675147534975,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_06.png"
+  },
+  "2f099855-eea8-43c6-804a-5b6ea01eb7b5": {
+    "asset": 1675141184545,
+    "meta": 1675147534987,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_07.png"
+  },
+  "addec4d3-6ac3-462c-a9ab-6c7b2899f957": {
+    "asset": 1675141184545,
+    "meta": 1675147534983,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_07_A.png"
+  },
+  "a570fe18-c520-4c85-9384-5879e9fb5ca1": {
+    "asset": 1675141184545,
+    "meta": 1675147534989,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_07_B.png"
+  },
+  "164de81d-29f1-4e91-91be-444d20ce5c47": {
+    "asset": 1675141184546,
+    "meta": 1675147534985,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_08.png"
+  },
+  "732c7c4d-60e1-457f-94bf-225af4facc2d": {
+    "asset": 1675141184546,
+    "meta": 1675147535003,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_08_B.png"
+  },
+  "476225ff-d172-4904-8231-c02248ef3bfc": {
+    "asset": 1675141184547,
+    "meta": 1675147535007,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_01_A.png"
+  },
+  "fa6f457f-8cc6-4b82-90a2-22bfe7d8b6b0": {
+    "asset": 1675141184546,
+    "meta": 1675147534998,
+    "relativePath": "Lib\\PNG\\Weapon_Color_C_256X256\\Gun_08_A.png"
+  },
+  "483bff5e-26f3-41d0-b81d-54f13b049a07": {
+    "asset": 1675141184547,
+    "meta": 1675147535004,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_01.png"
+  },
+  "54875340-c8f7-4ed4-bdf2-c1e972ab743e": {
+    "asset": 1675141184549,
+    "meta": 1675147535014,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_02_A.png"
+  },
+  "de8251f2-b665-40c1-8a8d-7eeedc642f26": {
+    "asset": 1675141184549,
+    "meta": 1675147535013,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_02_B.png"
+  },
+  "d9cb490f-75dd-42e5-92b2-c0532e845cb5": {
+    "asset": 1675141184548,
+    "meta": 1675147535009,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_01_B.png"
+  },
+  "4d034b08-a80b-41aa-b673-6b1c2f320fa7": {
+    "asset": 1675141184548,
+    "meta": 1675147535011,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_02.png"
+  },
+  "ac6d8f68-74b5-4652-bf5c-8d560081dbfe": {
+    "asset": 1675141184550,
+    "meta": 1675147535029,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_03_A.png"
+  },
+  "964843ad-72f8-4444-9fe0-3d9137fd100c": {
+    "asset": 1675141184549,
+    "meta": 1675147535023,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_03.png"
+  },
+  "ed85c50e-8499-4d83-b050-f01e4ac87d51": {
+    "asset": 1675141184550,
+    "meta": 1675147535031,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_03_B.png"
+  },
+  "57949afd-60b4-4169-acd3-808e48171053": {
+    "asset": 1675141184551,
+    "meta": 1675147535035,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_04.png"
+  },
+  "9bc40824-8194-4fb0-8989-ccd616497c7d": {
+    "asset": 1675141184551,
+    "meta": 1675147535033,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_04_A.png"
+  },
+  "83ead514-bffa-43f1-8e35-f74747980f6e": {
+    "asset": 1675141184552,
+    "meta": 1675147535042,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_04_B.png"
+  },
+  "5ad14daf-3ce8-4fee-a4c8-ee5ffe33bb08": {
+    "asset": 1675141184553,
+    "meta": 1675147535045,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_05_A.png"
+  },
+  "195ffe28-5839-4eaa-9197-93ab3c530900": {
+    "asset": 1675141184552,
+    "meta": 1675147535039,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_05.png"
+  },
+  "66eea969-d062-43d3-9c06-2b4085538b9f": {
+    "asset": 1675141184553,
+    "meta": 1675147535048,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_05_B.png"
+  },
+  "4361fd5d-04e2-4330-8f76-312b39aabaea": {
+    "asset": 1675141184554,
+    "meta": 1675147535056,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_06_A.png"
+  },
+  "9053664e-9b72-41f9-b455-131588f4374d": {
+    "asset": 1675141184554,
+    "meta": 1675147535054,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_06_B.png"
+  },
+  "0f8c8d8e-f85c-4280-92e7-f8d50c4d52c2": {
+    "asset": 1675141184555,
+    "meta": 1675147535057,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_07.png"
+  },
+  "b71d9191-e726-4fee-9bf2-5106044615c4": {
+    "asset": 1675141184553,
+    "meta": 1675147535053,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_06.png"
+  },
+  "b9b9bffc-c0e3-4f61-b1d0-0b6506c97494": {
+    "asset": 1675141184555,
+    "meta": 1675147535071,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_07_A.png"
+  },
+  "5b6b6cd7-ff6b-4b7d-b288-e6ae55e3ab27": {
+    "asset": 1675141184556,
+    "meta": 1675147535075,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_08_A.png"
+  },
+  "bc4be896-2ef7-4480-b93f-f472ac9ed2a9": {
+    "asset": 1675141184556,
+    "meta": 1675147535073,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_07_B.png"
+  },
+  "4b636285-d416-46a7-9194-0fb277cac90d": {
+    "asset": 1675141184557,
+    "meta": 1675147535079,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_08_B.png"
+  },
+  "2e405ec8-236b-46af-9fe3-51407a270a20": {
+    "asset": 1675141184556,
+    "meta": 1675147535077,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D\\Gun_08.png"
+  },
+  "b1c76c33-f6e1-4994-926c-4b927b40da9c": {
+    "asset": 1675141184558,
+    "meta": 1675147535081,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_01_A.png"
+  },
+  "762ef0dd-e042-47a4-bda0-37d6117a7fba": {
+    "asset": 1675141184559,
+    "meta": 1675147535098,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_02.png"
+  },
+  "ac236b1f-8934-47c9-8991-d49688a13476": {
+    "asset": 1675141184557,
+    "meta": 1675147535082,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_01.png"
+  },
+  "7baf9931-a718-49da-9375-b0602eed6a9b": {
+    "asset": 1675141184558,
+    "meta": 1675147535084,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_01_B.png"
+  },
+  "60fe26dd-bb49-43cb-b877-dee53b5df0a6": {
+    "asset": 1675141184559,
+    "meta": 1675147535103,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_02_A.png"
+  },
+  "a55b2311-a4d6-41d5-80c0-a7d2281561a3": {
+    "asset": 1675141184559,
+    "meta": 1675147535100,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_02_B.png"
+  },
+  "a063d14a-e440-4589-a60f-1efdb28c803a": {
+    "asset": 1675141184560,
+    "meta": 1675147535106,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_03_A.png"
+  },
+  "0eb0fd28-2871-43f0-bb04-b43fe95c0d24": {
+    "asset": 1675141184561,
+    "meta": 1675147535110,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_03_B.png"
+  },
+  "58a1ced8-e51c-463c-b97d-e4ed4853c8f7": {
+    "asset": 1675141184560,
+    "meta": 1675147535101,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_03.png"
+  },
+  "e75e1c09-2bd3-40fe-bf68-4984410f536e": {
+    "asset": 1675141184561,
+    "meta": 1675147535105,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_04.png"
+  },
+  "a5ce9d55-edf2-484d-ab48-7ced1394f847": {
+    "asset": 1675141184562,
+    "meta": 1675147535125,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_04_B.png"
+  },
+  "c81d65fb-f769-4a13-84cd-4f3ec0bab799": {
+    "asset": 1675141184561,
+    "meta": 1675147535108,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_04_A.png"
+  },
+  "c5ba3965-e195-44b1-a1c3-6c5e8d4381b6": {
+    "asset": 1675141184562,
+    "meta": 1675147535127,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_05.png"
+  },
+  "5651bd90-d175-4173-a16b-2f7fbf715701": {
+    "asset": 1675141184562,
+    "meta": 1675147535123,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_05_A.png"
+  },
+  "97f2fdf3-1c74-46e3-8928-450a70457a3f": {
+    "asset": 1675141184564,
+    "meta": 1675147535136,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_06_A.png"
+  },
+  "276313ed-f0fd-4ea4-87a2-4008db13f0f6": {
+    "asset": 1675141184563,
+    "meta": 1675147535133,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_05_B.png"
+  },
+  "7fbd1f52-e14d-4c21-b877-aaa5606bc464": {
+    "asset": 1675141184564,
+    "meta": 1675147535134,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_06_B.png"
+  },
+  "45e5e0c5-e70a-42aa-a323-c1ffe259fbdb": {
+    "asset": 1675141184564,
+    "meta": 1675147535131,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_07.png"
+  },
+  "b073fe14-4b73-4f93-89b9-6cccda240904": {
+    "asset": 1675141184563,
+    "meta": 1675147535128,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_06.png"
+  },
+  "becd9934-ec7b-4c94-bf11-46d9b2eec0f3": {
+    "asset": 1675141184565,
+    "meta": 1675147535153,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_07_A.png"
+  },
+  "611ff643-92ae-44d1-bc38-7b16f70fbe95": {
+    "asset": 1675141184566,
+    "meta": 1675147535158,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_08.png"
+  },
+  "1a203909-3d82-4dbe-92fe-83e87fa40ca0": {
+    "asset": 1675141184565,
+    "meta": 1675147535156,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_07_B.png"
+  },
+  "d7bfd153-5674-4433-ae9c-982e7d1caf82": {
+    "asset": 1675141184566,
+    "meta": 1675147535151,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_08_A.png"
+  },
+  "5038d714-e485-4f0a-9cad-5e6d74b59125": {
+    "asset": 1675141184566,
+    "meta": 1675147535155,
+    "relativePath": "Lib\\PNG\\Weapon_Color_D_256X256\\Gun_08_B.png"
+  },
+  "7a88b0b3-bf12-49b7-a7ba-b3376c92b994": {
+    "asset": 1675141184437,
+    "meta": 1675147535167,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_01_000.png"
+  },
+  "a0a93452-c02a-445d-bbd5-3809dae3c1ab": {
+    "asset": 1675141184438,
+    "meta": 1675147535165,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_01_002.png"
+  },
+  "d86cb370-5b31-41fc-bac7-71e81aa4afac": {
+    "asset": 1675141184437,
+    "meta": 1675147535163,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_01_001.png"
+  },
+  "fd3cb1b2-cdc5-4c63-ac75-80e40a8be1bd": {
+    "asset": 1675141184439,
+    "meta": 1675147535191,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_01_004.png"
+  },
+  "fc92c751-1782-4a19-b7b5-ea6504d1fc8f": {
+    "asset": 1675141184438,
+    "meta": 1675147535185,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_01_003.png"
+  },
+  "46deda90-fe61-46ce-9025-ae43f1bb1583": {
+    "asset": 1675141184439,
+    "meta": 1675147535189,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_01_006.png"
+  },
+  "b49be85d-0c14-4f9b-9f9f-236217b9f1a9": {
+    "asset": 1675141184440,
+    "meta": 1675147535194,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_01_007.png"
+  },
+  "cabbfa70-ff56-4637-8b98-c22ddb3bdae1": {
+    "asset": 1675141184440,
+    "meta": 1675147535200,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_01_008.png"
+  },
+  "0bbb2044-8705-49fc-8c72-9a92ae84da2e": {
+    "asset": 1675141184440,
+    "meta": 1675147535204,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_01_009.png"
+  },
+  "8917e29e-8d35-41e7-8d9f-abc2a1427c8d": {
+    "asset": 1675141184441,
+    "meta": 1675147535208,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_02_000.png"
+  },
+  "9e71990d-56b1-46e1-aa02-72b2ae816bbb": {
+    "asset": 1675141184439,
+    "meta": 1675147535187,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_01_005.png"
+  },
+  "c498698a-b444-4f39-b8e3-b907c42d0651": {
+    "asset": 1675141184441,
+    "meta": 1675147535221,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_02_002.png"
+  },
+  "c10669b6-baa9-4a2b-8d03-6e3e6abf0fb4": {
+    "asset": 1675141184441,
+    "meta": 1675147535219,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_02_001.png"
+  },
+  "24bbd977-f8da-4fbc-b4a0-4284e53b379c": {
+    "asset": 1675141184442,
+    "meta": 1675147535222,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_02_004.png"
+  },
+  "047c28c8-03ab-4299-9e4e-9269b041bca8": {
+    "asset": 1675141184442,
+    "meta": 1675147535230,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_02_005.png"
+  },
+  "07f4c19c-f7d8-49b6-abd2-24a21582c2df": {
+    "asset": 1675141184442,
+    "meta": 1675147535224,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_02_003.png"
+  },
+  "6b664eb5-1474-42ad-9f18-7907274c4088": {
+    "asset": 1675141184443,
+    "meta": 1675147535239,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_02_006.png"
+  },
+  "fa1cb930-27ad-4036-a63d-ce486106f81e": {
+    "asset": 1675141184443,
+    "meta": 1675147535242,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_02_007.png"
+  },
+  "e0b8772e-2bd3-4683-a6c5-b58a08ca1195": {
+    "asset": 1675141184443,
+    "meta": 1675147535244,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_02_008.png"
+  },
+  "b15c45b0-9546-46e2-a735-f5f0fc013383": {
+    "asset": 1675141184444,
+    "meta": 1675147535247,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Exhaust_02_009.png"
+  },
+  "67aac8f1-5908-434f-8fc1-772b517ed0c0": {
+    "asset": 1675141184444,
+    "meta": 1675147535248,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Explosion_000.png"
+  },
+  "35d5e3e6-3c05-420c-842a-b9dcc61b41d5": {
+    "asset": 1675141184444,
+    "meta": 1675147535253,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Explosion_001.png"
+  },
+  "3155452f-77ab-4af9-8e23-071f8a3910b7": {
+    "asset": 1675141184445,
+    "meta": 1675147535274,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Explosion_003.png"
+  },
+  "80cbbbd6-79cd-443d-8957-1872ee52a516": {
+    "asset": 1675141184445,
+    "meta": 1675147535250,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Explosion_002.png"
+  },
+  "fcb35020-2b2b-497c-99b9-7d61a505b403": {
+    "asset": 1675141184446,
+    "meta": 1675147535268,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Explosion_004.png"
+  },
+  "d9d6e219-cae8-42e7-a4a6-f757d9f2c566": {
+    "asset": 1675141184446,
+    "meta": 1675147535273,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Explosion_005.png"
+  },
+  "253da7a2-7a11-4bb7-9c0d-da5c6c6b2171": {
+    "asset": 1675141184447,
+    "meta": 1675147535265,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Explosion_006.png"
+  },
+  "2da42b0f-1b44-4aa7-bc3c-ca77364950be": {
+    "asset": 1675141184447,
+    "meta": 1675147535277,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Explosion_007.png"
+  },
+  "905ad8c3-5752-4fd1-bfb7-5a5b80e15e6c": {
+    "asset": 1675141184448,
+    "meta": 1675147535279,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Effects_Explosion_008.png"
+  },
+  "07d78562-b309-40f9-b7eb-fab3bcf659c8": {
+    "asset": 1675141184448,
+    "meta": 1675147535281,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Flame_000.png"
+  },
+  "8df7225c-2bd9-4c7d-9416-b21972be55b5": {
+    "asset": 1675141184448,
+    "meta": 1675147535289,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Flame_001.png"
+  },
+  "b79ed1cb-5b3c-4f25-9b77-948d874a6df4": {
+    "asset": 1675141184450,
+    "meta": 1675147535308,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Flame_004.png"
+  },
+  "5e3c6cd8-fb37-4e4a-9faa-0ce747ed3ae9": {
+    "asset": 1675141184449,
+    "meta": 1675147535296,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Flame_002.png"
+  },
+  "743faa46-712f-41f5-8d8d-7155d62c719f": {
+    "asset": 1675141184450,
+    "meta": 1675147535303,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Flame_005.png"
+  },
+  "05bcf373-618c-457f-83b7-2ebe36c3cf8a": {
+    "asset": 1675141184449,
+    "meta": 1675147535298,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Flame_003.png"
+  },
+  "beda6208-d5e5-45a0-909d-857e51d2f612": {
+    "asset": 1675141184452,
+    "meta": 1675147535300,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Flame_007.png"
+  },
+  "ccd1b63d-6008-4747-bf76-06c4d1517ffb": {
+    "asset": 1675141184451,
+    "meta": 1675147535310,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Flame_006.png"
+  },
+  "2d5d1299-8a65-49bf-8ca1-fe1333dc130e": {
+    "asset": 1675141184453,
+    "meta": 1675147535323,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Flame_009.png"
+  },
+  "9d24429c-18a7-42f4-b5b4-5089ddf30e4b": {
+    "asset": 1675141184453,
+    "meta": 1675147535327,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Impact_A_000.png"
+  },
+  "3908efa3-8595-4566-a4e4-d2f753659066": {
+    "asset": 1675141184452,
+    "meta": 1675147535304,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Flame_008.png"
+  },
+  "7a802ff8-8bc4-462d-b3ea-38e43cfb1ce9": {
+    "asset": 1675141184454,
+    "meta": 1675147535324,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Impact_A_001.png"
+  },
+  "fe50107a-c6e5-485f-9008-3104901619b9": {
+    "asset": 1675141184455,
+    "meta": 1675147535329,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Impact_A_002.png"
+  },
+  "907c14d5-8e2b-47a5-9c9a-cffe22a1ca23": {
+    "asset": 1675141184456,
+    "meta": 1675147535333,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Impact_B_000.png"
+  },
+  "ce59538a-e780-404f-b230-e7406a7a0ea2": {
+    "asset": 1675141184455,
+    "meta": 1675147535336,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Impact_A_003.png"
+  },
+  "31397c8e-9a37-430b-bcaf-8dfb5dc0bb84": {
+    "asset": 1675141184456,
+    "meta": 1675147535331,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Impact_B_001.png"
+  },
+  "6abc3de7-2c2d-4d79-b370-3956b28732b8": {
+    "asset": 1675141184458,
+    "meta": 1675147535354,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Shot_A_000.png"
+  },
+  "f19fdcc5-e5e5-43d5-991f-ee1a425cb402": {
+    "asset": 1675141184458,
+    "meta": 1675147535355,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Impact_B_003.png"
+  },
+  "87f7091c-d62d-411e-8459-ee1654b4657f": {
+    "asset": 1675141184459,
+    "meta": 1675147535358,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Shot_A_002.png"
+  },
+  "7666df52-9691-4075-8b31-6324477c5d34": {
+    "asset": 1675141184457,
+    "meta": 1675147535338,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Impact_B_002.png"
+  },
+  "b7be4316-926a-42ff-9e4b-fb280090098b": {
+    "asset": 1675141184458,
+    "meta": 1675147535360,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Shot_A_001.png"
+  },
+  "3922c969-d77d-4831-9c8f-00832174e6ca": {
+    "asset": 1675141184459,
+    "meta": 1675147535357,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Shot_A_003.png"
+  },
+  "7684ca14-27fe-4b21-9120-35537c0c8266": {
+    "asset": 1675141184460,
+    "meta": 1675147535364,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Shot_B_000.png"
+  },
+  "ee485193-d79f-4d11-a3c2-50f90232217c": {
+    "asset": 1675141184460,
+    "meta": 1675147535373,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Shot_B_001.png"
+  },
+  "c46948ea-f45c-44d3-8844-baec741be1c2": {
+    "asset": 1675141184460,
+    "meta": 1675147535371,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Shot_B_002.png"
+  },
+  "d4a5577e-bdcc-450a-a2f5-f298b1598520": {
+    "asset": 1675141184461,
+    "meta": 1675147535375,
+    "relativePath": "Lib\\PNG\\Effects\\Sprites\\Sprite_Fire_Shots_Shot_B_003.png"
+  },
+  "bd1dbff4-d9e5-46df-a777-fb6a750f2729": {
+    "asset": 1675229993779,
+    "meta": 1675335158155,
+    "relativePath": "Prefabs"
+  },
+  "b9a4f496-2bdb-4101-bba0-7dc2312c7e64": {
+    "asset": 1675407466892,
+    "meta": 1675407466923,
+    "relativePath": "Prefabs\\Bullet.prefab"
+  },
+  "adb6e431-aff1-4671-ad15-17a92ec9a2a7": {
+    "asset": 1675338608098,
+    "meta": 1675338608117,
+    "relativePath": "Prefabs\\Player.prefab"
+  },
+  "1e72a0ac-edc2-48e8-9ce4-ddbe97ef23a0": {
+    "asset": 1675229993766,
+    "meta": 1675229993779,
+    "relativePath": "Prefabs\\Enemy.prefab"
+  },
+  "fed39c6f-bf37-4b96-a91d-ca09ee6a38ad": {
+    "asset": 1675415733465,
+    "meta": 1675431953346,
+    "relativePath": "Script\\FireController.ts"
+  },
+  "963e8b1d-dbbb-440c-b4fc-ac60d74fc99b": {
+    "asset": 1675532436131,
+    "meta": 1675532522342,
+    "relativePath": "Script\\EnemyController.ts"
+  },
+  "0374ffa2-8d68-4c61-8002-79bfc9757f4a": {
+    "asset": 1675533082471,
+    "meta": 1675533109430,
+    "relativePath": "Script\\Bullet.ts"
+  },
+  "9836134e-b892-4283-b6b2-78b5acf3ed45": {
+    "asset": 1674845571403,
+    "meta": 1675573118252,
+    "relativePath": "effects"
+  },
+  "abc2cb62-7852-4525-a90d-d474487b88f2": {
+    "asset": 1674845571390,
+    "meta": 1675573118509,
+    "relativePath": "effects\\builtin-phong.effect"
+  },
+  "e2f00085-c597-422d-9759-52c360279106": {
+    "asset": 1674845571393,
+    "meta": 1675573118566,
+    "relativePath": "effects\\builtin-toon.effect"
+  },
+  "430eccbf-bf2c-4e6e-8c0c-884bbb487f32": {
+    "asset": 1674845571396,
+    "meta": 1675573118582,
+    "relativePath": "effects\\__builtin-editor-gizmo-line.effect"
+  },
+  "6c5cf6e1-b044-4eac-9431-835644d57381": {
+    "asset": 1674845571398,
+    "meta": 1675573118595,
+    "relativePath": "effects\\__builtin-editor-gizmo-unlit.effect"
+  },
+  "115286d1-2e10-49ee-aab4-341583f607e8": {
+    "asset": 1674845571401,
+    "meta": 1675573118615,
+    "relativePath": "effects\\__builtin-editor-gizmo.effect"
+  },
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1674845571470,
+    "meta": 1675573118616,
+    "relativePath": "image"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1674845571419,
+    "meta": 1675573118726,
+    "relativePath": "image\\default_panel.png"
+  },
+  "edd215b9-2796-4a05-aaf5-81f96c9281ce": {
+    "asset": 1674845571416,
+    "meta": 1675573118728,
+    "relativePath": "image\\default_editbox_bg.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1674845571413,
+    "meta": 1675573118730,
+    "relativePath": "image\\default_btn_pressed.png"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1674845571408,
+    "meta": 1675573118737,
+    "relativePath": "image\\default_btn_disabled.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1674845571424,
+    "meta": 1675573118739,
+    "relativePath": "image\\default_progressbar.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1674845571428,
+    "meta": 1675573118742,
+    "relativePath": "image\\default_progressbar_bg.png"
+  },
+  "600301aa-3357-4a10-b086-84f011fa32ba": {
+    "asset": 1674845571406,
+    "meta": 1675573118744,
+    "relativePath": "image\\default-particle.png"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1674845571410,
+    "meta": 1675573118747,
+    "relativePath": "image\\default_btn_normal.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1674845571442,
+    "meta": 1675573118766,
+    "relativePath": "image\\default_scrollbar.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1674845571436,
+    "meta": 1675573118773,
+    "relativePath": "image\\default_radio_button_on.png"
+  },
+  "5c3eedba-6c41-4c0c-9ba7-d91f813cbd1c": {
+    "asset": 1674845571476,
+    "meta": 1675573118786,
+    "relativePath": "materials"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1674845571444,
+    "meta": 1675573118780,
+    "relativePath": "image\\default_scrollbar_bg.png"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1674845571482,
+    "meta": 1675573118790,
+    "relativePath": "misc"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1674845571432,
+    "meta": 1675573118782,
+    "relativePath": "image\\default_radio_button_off.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1674845571448,
+    "meta": 1675573118785,
+    "relativePath": "image\\default_scrollbar_vertical_bg.png"
+  },
+  "db019bf7-f71c-4111-98cf-918ea180cb48": {
+    "asset": 1674845571514,
+    "meta": 1675573118793,
+    "relativePath": "model"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1674845571445,
+    "meta": 1675573118787,
+    "relativePath": "image\\default_scrollbar_vertical.png"
+  },
+  "e39e96e6-6f6e-413f-bcf1-ac7679bb648a": {
+    "asset": 1674845571509,
+    "meta": 1675573118795,
+    "relativePath": "model\\prefab"
+  },
+  "c4480a0a-6ac5-443f-8b40-361a14257fc8": {
+    "asset": 1674845571475,
+    "meta": 1675573119353,
+    "relativePath": "materials\\builtin-phong.mtl"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1674845571454,
+    "meta": 1675573118791,
+    "relativePath": "image\\default_sprite_splash.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1674845571451,
+    "meta": 1675573118794,
+    "relativePath": "image\\default_sprite.png"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1674845571461,
+    "meta": 1675573118838,
+    "relativePath": "image\\default_toggle_disabled.png"
+  },
+  "fe1417b6-fe6b-46a4-ae7c-9fd331f33a2a": {
+    "asset": 1674845571488,
+    "meta": 1675573118856,
+    "relativePath": "model\\prefab\\capsule.prefab"
+  },
+  "a87cc147-01b2-43f8-8e42-a7ca90b0c757": {
+    "asset": 1674845571485,
+    "meta": 1675573118868,
+    "relativePath": "model\\prefab\\box.prefab"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1674845571458,
+    "meta": 1675573118843,
+    "relativePath": "image\\default_toggle_checkmark.png"
+  },
+  "1c5e4038-953a-44c2-b620-0bbfc6170477": {
+    "asset": 1674845571493,
+    "meta": 1675573118870,
+    "relativePath": "model\\prefab\\cylinder.prefab"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1674845571521,
+    "meta": 1675573118871,
+    "relativePath": "obsolete"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1674845571466,
+    "meta": 1675573118846,
+    "relativePath": "image\\default_toggle_normal.png"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1674845571481,
+    "meta": 1675573118874,
+    "relativePath": "misc\\default_video.mp4"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1674845571469,
+    "meta": 1675573118849,
+    "relativePath": "image\\default_toggle_pressed.png"
+  },
+  "b5fc2cf2-7942-483d-be1f-bbeadc4714ad": {
+    "asset": 1674845571490,
+    "meta": 1675573118876,
+    "relativePath": "model\\prefab\\cone.prefab"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1674845571530,
+    "meta": 1675573118877,
+    "relativePath": "particle"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1674845571622,
+    "meta": 1675573118887,
+    "relativePath": "prefab"
+  },
+  "6c9ef10d-b479-420b-bfe6-39cdda6a8ae0": {
+    "asset": 1674845571500,
+    "meta": 1675573118889,
+    "relativePath": "model\\prefab\\quad.prefab"
+  },
+  "3f376125-a699-40ca-ad05-04d662eaa1f2": {
+    "asset": 1674845571497,
+    "meta": 1675573118892,
+    "relativePath": "model\\prefab\\plane.prefab"
+  },
+  "2d9a4b85-b0ab-4c46-84c5-18f393ab2058": {
+    "asset": 1674845571503,
+    "meta": 1675573118895,
+    "relativePath": "model\\prefab\\sphere.prefab"
+  },
+  "de510076-056b-484f-b94c-83bef217d0e1": {
+    "asset": 1674845571507,
+    "meta": 1675573118897,
+    "relativePath": "model\\prefab\\torus.prefab"
+  },
+  "897ef7a1-4860-4f64-968d-f5924b18668a": {
+    "asset": 1674845571533,
+    "meta": 1675573118918,
+    "relativePath": "prefab\\2d-camera.prefab"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1674845571544,
+    "meta": 1675573118921,
+    "relativePath": "prefab\\button.prefab"
+  },
+  "ed88f13d-fcad-4848-aa35-65a2cb973584": {
+    "asset": 1674845571541,
+    "meta": 1675573118923,
+    "relativePath": "prefab\\3d-stage.prefab"
+  },
+  "70d7cdb0-04cd-41bb-9480-c06a4785f386": {
+    "asset": 1674845571535,
+    "meta": 1675573118925,
+    "relativePath": "prefab\\3d-camera.prefab"
+  },
+  "70bbeb73-6dc2-4ee4-8faf-76b3a0e34ec4": {
+    "asset": 1674845571539,
+    "meta": 1675573118927,
+    "relativePath": "prefab\\3d-particle.prefab"
+  },
+  "a3ee0214-b432-4865-9666-4a3211814282": {
+    "asset": 1674845571571,
+    "meta": 1675573118929,
+    "relativePath": "prefab\\light"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1674845571548,
+    "meta": 1675573118943,
+    "relativePath": "prefab\\canvas.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1674845571554,
+    "meta": 1675573118945,
+    "relativePath": "prefab\\label.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1674845571573,
+    "meta": 1675573118952,
+    "relativePath": "prefab\\pageview.prefab"
+  },
+  "d0a82d39-bede-46c4-b698-c81ff0dedfff": {
+    "asset": 1674845571529,
+    "meta": 1675573118941,
+    "relativePath": "particle\\atom.png"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1674845571556,
+    "meta": 1675573118956,
+    "relativePath": "prefab\\layout.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1674845571579,
+    "meta": 1675573118958,
+    "relativePath": "prefab\\progressBar.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1674845571576,
+    "meta": 1675573118961,
+    "relativePath": "prefab\\particlesystem.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1674845571551,
+    "meta": 1675573118965,
+    "relativePath": "prefab\\editbox.prefab"
+  },
+  "8a96b965-2dc0-4e03-aa90-3b79cb93b5b4": {
+    "asset": 1674845571520,
+    "meta": 1675573118954,
+    "relativePath": "obsolete\\atom.png"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1674845571582,
+    "meta": 1675573118968,
+    "relativePath": "prefab\\richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1674845571586,
+    "meta": 1675573118970,
+    "relativePath": "prefab\\scrollview.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1674845571591,
+    "meta": 1675573118972,
+    "relativePath": "prefab\\sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1674845571597,
+    "meta": 1675573118978,
+    "relativePath": "prefab\\tiledmap.prefab"
+  },
+  "0e42ba95-1fa1-46aa-b2cf-143cd1bcee2c": {
+    "asset": 1674845571601,
+    "meta": 1675573118981,
+    "relativePath": "prefab\\tiledtile.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1674845571593,
+    "meta": 1675573118983,
+    "relativePath": "prefab\\sprite_splash.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1674845571605,
+    "meta": 1675573118986,
+    "relativePath": "prefab\\toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1674845571609,
+    "meta": 1675573118991,
+    "relativePath": "prefab\\toggleContainer.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1674845571616,
+    "meta": 1675573118994,
+    "relativePath": "prefab\\toggleGroup.prefab"
+  },
+  "61906da3-7003-4bda-9abc-5769c76faee4": {
+    "asset": 1674845571560,
+    "meta": 1675573118996,
+    "relativePath": "prefab\\light\\ambient.prefab"
+  },
+  "d8afc78c-4eac-4a9f-83dd-67bc70344d33": {
+    "asset": 1674845571657,
+    "meta": 1675573118997,
+    "relativePath": "resources"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1674845571618,
+    "meta": 1675573118999,
+    "relativePath": "prefab\\videoplayer.prefab"
+  },
+  "294c1663-4adf-4a1e-a795-53808011a38a": {
+    "asset": 1674845571654,
+    "meta": 1675573119000,
+    "relativePath": "resources\\effects"
+  },
+  "bbee2217-c261-49bd-a8ce-708d6bcc3500": {
+    "asset": 1674845571699,
+    "meta": 1675573119001,
+    "relativePath": "resources\\materials"
+  },
+  "30682f87-9f0d-4f17-8a44-72863791461b": {
+    "asset": 1674845571628,
+    "meta": 1675573119033,
+    "relativePath": "resources\\effects\\builtin-2d-graphics.effect"
+  },
+  "144c3297-af63-49e8-b8ef-1cfa29b3be28": {
+    "asset": 1674845571631,
+    "meta": 1675573119054,
+    "relativePath": "resources\\effects\\builtin-2d-gray-sprite.effect"
+  },
+  "f18742d7-56d2-4eb5-ae49-2d9d710b37c8": {
+    "asset": 1674845571634,
+    "meta": 1675573119067,
+    "relativePath": "resources\\effects\\builtin-2d-label.effect"
+  },
+  "0e93aeaa-0b53-4e40-b8e0-6268b4e07bd7": {
+    "asset": 1674845571636,
+    "meta": 1675573119077,
+    "relativePath": "resources\\effects\\builtin-2d-spine.effect"
+  },
+  "2874f8dd-416c-4440-81b7-555975426e93": {
+    "asset": 1674845571640,
+    "meta": 1675573119090,
+    "relativePath": "resources\\effects\\builtin-2d-sprite.effect"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1674845571620,
+    "meta": 1675573119092,
+    "relativePath": "prefab\\webview.prefab"
+  },
+  "829a282c-b049-4019-bd38-5ace8d8a6417": {
+    "asset": 1674845571643,
+    "meta": 1675573119175,
+    "relativePath": "resources\\effects\\builtin-3d-particle.effect"
+  },
+  "2a7c0036-e0b3-4fe1-8998-89a54b8a2bec": {
+    "asset": 1674845571647,
+    "meta": 1675573119194,
+    "relativePath": "resources\\effects\\builtin-3d-trail.effect"
+  },
+  "c0040c95-c57f-49cd-9cbc-12316b73d0d4": {
+    "asset": 1674845571651,
+    "meta": 1675573119205,
+    "relativePath": "resources\\effects\\builtin-clear-stencil.effect"
+  },
+  "6d91e591-4ce0-465c-809f-610ec95019c6": {
+    "asset": 1674845571653,
+    "meta": 1675573119231,
+    "relativePath": "resources\\effects\\builtin-unlit.effect"
+  },
+  "ddb99b39-7004-47cd-9705-751905c43c46": {
+    "asset": 1674845571563,
+    "meta": 1675573119241,
+    "relativePath": "prefab\\light\\directional.prefab"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1674845571588,
+    "meta": 1675573119243,
+    "relativePath": "prefab\\slider.prefab"
+  },
+  "0cf30284-9073-46bc-9eba-e62b69dbbff3": {
+    "asset": 1674845571566,
+    "meta": 1675573119245,
+    "relativePath": "prefab\\light\\point.prefab"
+  },
+  "f5331fd2-bf42-4ee3-a3fd-3e1657600eff": {
+    "asset": 1674845571569,
+    "meta": 1675573119248,
+    "relativePath": "prefab\\light\\spot.prefab"
+  },
+  "a153945d-2511-4c14-be7b-05d242f47d57": {
+    "asset": 1674845571664,
+    "meta": 1675573119389,
+    "relativePath": "resources\\materials\\builtin-2d-graphics.mtl"
+  },
+  "6f801092-0c37-4f30-89ef-c8d960825b36": {
+    "asset": 1674845571659,
+    "meta": 1675573119390,
+    "relativePath": "resources\\materials\\builtin-2d-base.mtl"
+  },
+  "e02d87d4-e599-4d16-8001-e14891ac6506": {
+    "asset": 1674845571674,
+    "meta": 1675573119391,
+    "relativePath": "resources\\materials\\builtin-2d-label.mtl"
+  },
+  "3a7bb79f-32fd-422e-ada2-96f518fed422": {
+    "asset": 1674845571667,
+    "meta": 1675573119391,
+    "relativePath": "resources\\materials\\builtin-2d-gray-sprite.mtl"
+  },
+  "432fa09c-cf03-4cff-a186-982604408a07": {
+    "asset": 1674845571683,
+    "meta": 1675573119392,
+    "relativePath": "resources\\materials\\builtin-3d-particle.mtl"
+  },
+  "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432": {
+    "asset": 1674845571680,
+    "meta": 1675573119393,
+    "relativePath": "resources\\materials\\builtin-2d-sprite.mtl"
+  },
+  "7afd064b-113f-480e-b793-8817d19f63c3": {
+    "asset": 1674845571677,
+    "meta": 1675573119394,
+    "relativePath": "resources\\materials\\builtin-2d-spine.mtl"
+  },
+  "cf7e0bb8-a81c-44a9-ad79-d28d43991032": {
+    "asset": 1674845571694,
+    "meta": 1675573119394,
+    "relativePath": "resources\\materials\\builtin-clear-stencil.mtl"
+  },
+  "466d4f9b-e5f4-4ea8-85d5-3c6e9a65658a": {
+    "asset": 1674845571691,
+    "meta": 1675573119395,
+    "relativePath": "resources\\materials\\builtin-3d-trail.mtl"
+  },
+  "2a296057-247c-4a1c-bbeb-0548b6c98650": {
+    "asset": 1674845571697,
+    "meta": 1675573119396,
+    "relativePath": "resources\\materials\\builtin-unlit.mtl"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1674845571525,
+    "meta": 1675573119397,
+    "relativePath": "particle\\atom.plist"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1674845571516,
+    "meta": 1675573119398,
+    "relativePath": "obsolete\\atom.plist"
+  },
+  "954fec8b-cd16-4bb9-a3b7-7719660e7558": {
+    "asset": 1674845571512,
+    "meta": 1675573119480,
+    "relativePath": "model\\primitives.fbx"
+  },
+  "8b714402-0a91-4fcf-9bfa-d2dd4435e24c": {
+    "asset": 1675573232405,
+    "meta": 1675573236601,
+    "relativePath": "Script\\PlayerController.ts"
+  },
+  "b64396ec-d400-4553-90d5-56e0e649ef57": {
+    "asset": 1675602256131,
+    "meta": 1675602258484,
+    "relativePath": "Script\\GameManager.ts"
+  }
+}

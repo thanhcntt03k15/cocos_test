@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Flash_B_01",
+    "texture": "ff39a8bc-4f95-4da9-98f9-b6888a57bb9d",
+    "atlas": "",
+    "rect": [
+      41,
+      38,
+      46,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sprite_Fire_Shots_Impact_B_000",
+    "texture": "907c14d5-8e2b-47a5-9c9a-cffe22a1ca23",
+    "atlas": "",
+    "rect": [
+      120,
+      114,
+      16,
+      39
+    ],
+    "offset": [
+      0,
+      -5.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

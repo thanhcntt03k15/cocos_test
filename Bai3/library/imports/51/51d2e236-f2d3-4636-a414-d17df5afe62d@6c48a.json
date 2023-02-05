@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Granade_Shell",
+    "texture": "51d2e236-f2d3-4636-a414-d17df5afe62d",
+    "atlas": "",
+    "rect": [
+      54,
+      44,
+      20,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

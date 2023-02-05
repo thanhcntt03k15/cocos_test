@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Tire_Track_02",
+    "texture": "9b8dd1fa-aaaa-4885-bd17-144e8ee88c61",
+    "atlas": "",
+    "rect": [
+      47,
+      12,
+      34,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

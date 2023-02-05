@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Plasma",
+    "texture": "c6538c55-dd39-4ad9-9a00-12cf7c34b1ac",
+    "atlas": "",
+    "rect": [
+      55,
+      27,
+      17,
+      74
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
